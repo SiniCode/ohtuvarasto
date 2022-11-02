@@ -1,1 +1,2 @@
 Tänne tulee rivi tekstiä.
+Tämä rivi on muutos tiedostoon.
