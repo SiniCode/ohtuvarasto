@@ -1,4 +1,0 @@
-Tänne tulee kaksi riviä tekstiä.
-Kas näin!
-
-Lisäsinpä kolmannenkin...
